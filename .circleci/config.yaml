@@ -1,0 +1,3 @@
+# build & deploy container to webpack-contrib dockerhub
+
+# Pull them into the single docker-compose & sting that into Webpack
