@@ -1,0 +1,22 @@
+{
+  "name": "micro-analytics-containers",
+  "version": "1.0.0",
+  "description": "Because Sean is a mega Docker nub muffin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3viant0ne/micro-analytics-containers.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/d3viant0ne/micro-analytics-containers/issues"
+  },
+  "homepage": "https://github.com/d3viant0ne/micro-analytics-containers#readme",
+  "devDependencies": {
+    "selfsigned": "^1.10.1"
+  }
+}
